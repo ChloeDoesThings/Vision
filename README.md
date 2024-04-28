@@ -1,4 +1,7 @@
 # Vision
+
+## This project is no longer public and you will need to pay to get Vision.
+
 ## What is Vision
 Vision is an open-source anti-cheat/anti-exploit software for Roblox games, Minecraft Servers (1.8.9), and games outside of those.
 
